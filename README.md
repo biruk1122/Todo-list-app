@@ -17,9 +17,8 @@ It allows users to add, edit, delete, and persist tasks using **LocalStorage** �
 
 ## 🖼️ Screenshot
 
-![Task List Screenshot](screenshot.png)
+<img src="./file/screenshot.PNG" alt="todo list app Project Screenshot">
 
-_(Replace `screenshot.png` with an actual screenshot of your app.)_
 
 ---
 
@@ -34,10 +33,10 @@ _(Replace `screenshot.png` with an actual screenshot of your app.)_
 ## 📂 Project Structure
 
 project-folder/
-├── index.html # Main HTML file
-├── main.css # Stylesheet
-├── main.js # JavaScript logic
-├── screenshot.png # App screenshot (optional)
+- ├── index.html # Main HTML file
+- ├── main.css # Stylesheet
+- ├── main.js # JavaScript logic
+- ├── screenshot.png # App screenshot (optional)
 
 ---
 
